@@ -60,15 +60,19 @@ p.author {
   }
 
   p.text {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
   }
   p.author {
-    font-size: 1.0rem;
+    font-size: .7rem;
     margin-bottom: 2rem;
   }
 
   h1.app-title {
     font-size: 1.8rem;     
+  }
+
+  .App {
+    width: 70%;
   }
 }
 

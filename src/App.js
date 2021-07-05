@@ -59,7 +59,7 @@ function App() {
         
         <StyledButton 
           variant='outlined' 
-          size='large'
+          size='medium'
           className='button' 
           onClick={fetchData}
                  >
