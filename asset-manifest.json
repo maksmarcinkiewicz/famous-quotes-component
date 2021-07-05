@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/famous-quotes-component/static/css/main.97db8352.chunk.css",
-    "main.js": "/famous-quotes-component/static/js/main.4c0d52f6.chunk.js",
-    "main.js.map": "/famous-quotes-component/static/js/main.4c0d52f6.chunk.js.map",
+    "main.css": "/famous-quotes-component/static/css/main.1ddf2049.chunk.css",
+    "main.js": "/famous-quotes-component/static/js/main.d867c1fb.chunk.js",
+    "main.js.map": "/famous-quotes-component/static/js/main.d867c1fb.chunk.js.map",
     "runtime-main.js": "/famous-quotes-component/static/js/runtime-main.3ec4369b.js",
     "runtime-main.js.map": "/famous-quotes-component/static/js/runtime-main.3ec4369b.js.map",
     "static/js/2.47043a6f.chunk.js": "/famous-quotes-component/static/js/2.47043a6f.chunk.js",
     "static/js/2.47043a6f.chunk.js.map": "/famous-quotes-component/static/js/2.47043a6f.chunk.js.map",
     "index.html": "/famous-quotes-component/index.html",
-    "static/css/main.97db8352.chunk.css.map": "/famous-quotes-component/static/css/main.97db8352.chunk.css.map",
+    "static/css/main.1ddf2049.chunk.css.map": "/famous-quotes-component/static/css/main.1ddf2049.chunk.css.map",
     "static/js/2.47043a6f.chunk.js.LICENSE.txt": "/famous-quotes-component/static/js/2.47043a6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ec4369b.js",
     "static/js/2.47043a6f.chunk.js",
-    "static/css/main.97db8352.chunk.css",
-    "static/js/main.4c0d52f6.chunk.js"
+    "static/css/main.1ddf2049.chunk.css",
+    "static/js/main.d867c1fb.chunk.js"
   ]
 }
